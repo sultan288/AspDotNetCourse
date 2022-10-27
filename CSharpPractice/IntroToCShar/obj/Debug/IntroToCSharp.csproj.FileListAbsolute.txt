@@ -1,0 +1,7 @@
+F:\ASPDOTNETCOURSE\CSharpPractice\IntroToCShar\bin\Debug\IntroToCShar.exe.config
+F:\ASPDOTNETCOURSE\CSharpPractice\IntroToCShar\bin\Debug\IntroToCShar.exe
+F:\ASPDOTNETCOURSE\CSharpPractice\IntroToCShar\bin\Debug\IntroToCShar.pdb
+F:\ASPDOTNETCOURSE\CSharpPractice\IntroToCShar\obj\Debug\IntroToCSharp.csproj.AssemblyReference.cache
+F:\ASPDOTNETCOURSE\CSharpPractice\IntroToCShar\obj\Debug\IntroToCSharp.csproj.CoreCompileInputs.cache
+F:\ASPDOTNETCOURSE\CSharpPractice\IntroToCShar\obj\Debug\IntroToCShar.exe
+F:\ASPDOTNETCOURSE\CSharpPractice\IntroToCShar\obj\Debug\IntroToCShar.pdb
